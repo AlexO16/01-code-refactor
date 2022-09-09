@@ -31,4 +31,4 @@ The following screenshot shows the websites appearance:
 
 # Credits
 * [University of Minnesota bootcamp](https://courses.bootcampspot.com/courses/2176/assignments/38750?module_item_id=750299)
-* [Alex Oleynik](https://github.com/AlexO16/01-code-refactor)
+* [Alex Oleynik](https://github.com/AlexO16)
