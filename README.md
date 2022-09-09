@@ -19,6 +19,10 @@ The challenge was to refactor the existing code without changing its external be
 * Working links 
 * Comments
 
+# Screenshot 
+
+
+
 # Links
 * [Deployed webpage](https://alexo16.github.io/01-code-refactor/)
 * [Repository](https://github.com/AlexO16/01-code-refactor) 
