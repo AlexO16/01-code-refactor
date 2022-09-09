@@ -20,6 +20,7 @@ The challenge was to refactor the existing code without changing its external be
 * Comments
 
 # Screenshot 
+The following screenshot shows the websites appearance:
 
 ![image](https://user-images.githubusercontent.com/110851664/189272602-4457811e-2d53-410e-b9d7-d20ddcf7ba92.png)
 
@@ -27,3 +28,7 @@ The challenge was to refactor the existing code without changing its external be
 # Links
 * [Deployed webpage](https://alexo16.github.io/01-code-refactor/)
 * [Repository](https://github.com/AlexO16/01-code-refactor) 
+
+# Credits
+* [University of Minnesota bootcamp](https://courses.bootcampspot.com/courses/2176/assignments/38750?module_item_id=750299)
+* [Alex Oleynik](https://github.com/AlexO16/01-code-refactor)
