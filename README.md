@@ -2,7 +2,7 @@
 
 # Challenge Description 
 
-The challenge was to refactor the existing code without changing its external behavior. For the challenge we were given an existing HTML file, CSS file, and images about a fictional marketing agency Horiseon. The goal is to refactor the code for search engines and accessibility standards. 
+The challenge was to refactor the existing code without changing its external behavior and optimize the code for search engines and accessibility standards. For the challenge we were given an existing HTML file, CSS file, and images about a marketing agency called Horiseon.
 
 # Acceptance Criteria
 * Title element is concise and descriptive
@@ -18,10 +18,6 @@ The challenge was to refactor the existing code without changing its external be
 * Added alt attributes of images for accessibility
 * Working links 
 * Comments
-
-# Languages
-* HTML
-* CSS
 
 # Links
 * [Deployed webpage](https://alexo16.github.io/01-code-refactor/)
