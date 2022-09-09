@@ -2,7 +2,7 @@
 
 # Challenge Description 
 
-The challenge was to refactor the existing code without changing its external behavior and optimize the code for search engines and accessibility standards. For the challenge we were given an existing HTML file, CSS file, and images about a marketing agency called Horiseon.
+The challenge is to refactor the existing code without changing its external behavior and to optimize the code for search engines and accessibility standards. For the challenge we were given an existing HTML file, CSS file, and images about a marketing agency called Horiseon.
 
 # Acceptance Criteria
 * Title element is concise and descriptive
