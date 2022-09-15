@@ -20,7 +20,7 @@ The challenge is to refactor the existing code without changing its external beh
 * Comments
 
 # Screenshot 
-The following screenshot shows the websites appearance:
+The following screenshot shows the webpage appearance:
 
 ![image](https://user-images.githubusercontent.com/110851664/189272602-4457811e-2d53-410e-b9d7-d20ddcf7ba92.png)
 
